@@ -1,6 +1,6 @@
 '''
 NAME
-	[name]
+	[name].py
 
 VERSION 
 	[#.#]
@@ -16,7 +16,7 @@ CATEGORY
 	[category]
 
 USAGE
-	[program name][options]
+	[program name][options]	
 
 ARGUMENTS
 	[name]  [description]
@@ -28,5 +28,9 @@ INPUT
 
 OUTPUT
 	[file names and formats]
+	
+EXAMPLES
+	[Example 1: Describe the case, the input and output]
+
 
 '''
