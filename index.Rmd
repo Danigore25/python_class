@@ -1,0 +1,24 @@
+---
+title: "Mi Sitio Personal"
+author: "Daniela Goretti Castillo León"
+date: "23/11/2021"
+output:
+  html_document:
+    theme: darkly
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<img src="./img/foto_gore.jpeg" width="200" />
+
+## Datos personales
+- Fecha de nacimiento: 25/02/2002
+
+## Mis cursos
+- Python II (https://github.com/Danigore25/python2). Curso de Biopython en la licenciatura en ciencias genómicas.
+
+## Contacto y redes sociales
+- Correo: dgoretti@lcg.unam.mx, danigore22@gmail.com
+- Facebook: Gore Castillo
